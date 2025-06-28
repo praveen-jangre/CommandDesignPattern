@@ -4,7 +4,7 @@ The Command Design Pattern represents a request as an object, enabling separatio
 * Represents a request as an object
 * Decouples the object that initiates the operation from the one that executes it
 
-##Purpose
+## Purpose
 * Promotes loose coupling between command invoker and receiver
 
 ## Use cases
